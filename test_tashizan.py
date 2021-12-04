@@ -6,7 +6,7 @@ class TestTashizan(unittest.TestCase):
 
             value1 = 2
             value2 = 6
-            expected = 9
+            expected = 8
             actual = tashizan(value1, value2)
             self.assertEqual(expected, actual)
 
