@@ -1,3 +1,4 @@
+# comment by Kei
 class QuadraticEquation(object):
     def __init__(self):
         self.a = 1.0
