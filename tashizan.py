@@ -1,3 +1,3 @@
 # comment by Kei
-def tashizan(a, b):
+def tashizan(a, b,c):
     return a + b
