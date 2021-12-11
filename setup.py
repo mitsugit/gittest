@@ -6,3 +6,4 @@ class QuadraticEquation(object):
         self.a = 1.0
         self.b = 2.0
         self.c = 1.0
+        self.d = 5.0
