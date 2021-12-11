@@ -8,4 +8,4 @@ class QuadraticEquation(object):
         self.c = 1.0
         self.d = 5.0
         self.e = 8.0
-        
+        self.f = "branch"
