@@ -10,3 +10,4 @@ class QuadraticEquation(object):
         self.e = 8.0
         self.f = "branch"
         self.g = "test"
+        self.h = "test2"
